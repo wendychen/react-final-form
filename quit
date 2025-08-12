@@ -1,0 +1,36 @@
+[33mcommit 25a3d26b6411d86d3d5899b7a13c03a76f5d842e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/navbar[m[33m)[m
+Author: Wendy Chen <lfwendy@gmail.com>
+Date:   Wed Aug 13 04:57:22 2025 +0800
+
+    add files like .gitignore.
+
+[33mcommit 626d28f3bde198b04b3248899bde99034637deee[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Wendy Chen <lfwendy@gmail.com>
+Date:   Sun Aug 10 23:17:13 2025 +0800
+
+    Add index.html
+
+[33mcommit 35933da5725432dff57fbbf3a42d1e47a068c336[m
+Merge: fecdbec 0cbde18
+Author: Wendy Chen <lfwendy@gmail.com>
+Date:   Sun Aug 10 23:14:45 2025 +0800
+
+    Merge branch 'feature/navbar'
+
+[33mcommit fecdbec8f8116b49c31074f8439e9bab0b7387bc[m
+Author: Wendy Chen <lfwendy@gmail.com>
+Date:   Sun Aug 10 23:14:33 2025 +0800
+
+    Add index.html
+
+[33mcommit 0cbde18b8e62594403da0139e9e6a0b2943779ee[m
+Author: Wendy Chen <lfwendy@gmail.com>
+Date:   Sun Aug 10 23:14:10 2025 +0800
+
+    Add navbar.txt
+
+[33mcommit 0f9569e5758c015c63e904d15b952425cf1da8a4[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mhappy[m[33m, [m[1;32mcute[m[33m)[m
+Author: Wendy Chen <lfwendy@gmail.com>
+Date:   Sun Aug 3 14:22:01 2025 +0800
+
+    add file:filename.txt
